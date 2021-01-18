@@ -1,0 +1,25 @@
+baseurl = "http://vps282498.ovh.net:81/"
+title = "Morpheus user guide"
+languageCode = "en-us"
+theme = "bootie-docs"
+
+[params]
+  description = "<center><img src=\"img/Morpheus.jpg\"></center>"
+  #withSitePosts = false
+  #highlightStyle = "github"
+  #searchDomain = "your-domain.org"
+  #noCategoryLink = true
+  #repositoryUrl = "http://your-repository-url"
+
+[[params.mainMenu]]
+  name = "Index"
+  link = "index"
+
+[[params.mainMenu]]
+  name = "News"
+  link = "categories/news"
+
+
+#[[params.mainMenu]]
+#  name = "Usage"
+#  link = "usage"
