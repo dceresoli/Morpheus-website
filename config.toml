@@ -1,4 +1,4 @@
-baseurl = "http://vps282498.ovh.net:81/"
+baseurl = "https://morpheus-cluster.netlify.app/"
 title = "Morpheus user guide"
 languageCode = "en-us"
 theme = "bootie-docs"
